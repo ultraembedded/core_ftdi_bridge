@@ -1,5 +1,7 @@
 ### FTDI FT245 Style Synchronous/Asynchronous FIFO Bridge
 
+Github:   [https://github.com/ultraembedded/core_ftdi_bridge](https://github.com/ultraembedded/core_ftdi_bridge)
+
 This component provides a bridge from the FTDI Asynchronous or Synchronous FIFO interface (such as found on the FT245 or FT2232) to an AXI4 master & GPIO interface.
 
 Devices such as the FT2232 must be switched into FIFO mode using the FT_PROG EEPROM programming tool from FTDI.  
